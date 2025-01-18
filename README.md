@@ -42,9 +42,7 @@ Below are some screenshots of the application:
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <project-directory>
-    ```
+    git clone <https://github.com/Niraj11Parihar/SolvifyPractical>
 
 2. Install dependencies:
     ```bash
